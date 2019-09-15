@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">"السمك المجنونة "</string>
+    <string name="score">مجموع النقاط</string>
+    <string name="playagin">العب مرة أخرى</string>
+    <string name="game_over">انتهت اللعبة</string>
+    <string name="the_flying_fish" tools:keep="@string/the_flying_fish">"السمك المجنونة "</string>
+</resources>

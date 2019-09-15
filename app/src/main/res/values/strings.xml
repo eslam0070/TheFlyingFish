@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Crazy Fish</string>
+    <string name="todo" translatable="false" tools:keep="@string/todo">TODO</string>
+    <string name="the_flying_fish" tools:keep="@string/the_flying_fish">Crazy Fish</string>
+    <string name="game_over">Game Over</string>
+    <string name="playagin">Play Again</string>
+    <string name="score">Score</string>
+    <string name="banner" translatable="false">ca-app-pub-8419407261151146/2015049127</string>
+    <string name="full_screen" translatable="false">ca-app-pub-8419407261151146/4996435686</string>
+    <string name="crazy_fish" translatable="false">Crazy Fish</string>
+</resources>
